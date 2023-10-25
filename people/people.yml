@@ -12,3 +12,10 @@ Pieter Gijsbers:
     started the <a href="https://github.com/openml/automlbenchmark" target="_blank">AutoML Benchmark</a> and 
     <a href="https://github.com/openml-labs/gama" target="_blank">GAMA</a>, and is currently rewriting the OpenML server in Python.
   picture: ../images/people/pieter_gijsbers.webp
+
+Israel Campero Jurado:
+  position: PhD student
+  description:
+    <name> is a PhD student in computer science working on the European ITEA project called <a href="https://inno4health.eu/" target="_blank">INNO4HEALTH.
+    His interests focus on the application of automated machine learning (AutoML) and meta-learning to healthcare solutions.
+  picture: ../images/people/israel.jpg
